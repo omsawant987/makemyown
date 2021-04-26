@@ -1,0 +1,9 @@
+h1{color:blue}
+p{background-color: #df5656;}
+.header{background-color: #808080;}
+.trex{background-color: #99aa99;}
+.tower{background-color: #23ab34;}
+.plinko{background-color: #67fe5d;}
+.supply{background-color: #88ef67;}
+.info{display:flex; justify-content: center;}
+.games{display:flex;flex-direction: column-reverse;}
